@@ -9,7 +9,6 @@ Voor het ontwikkelen van de tool wordt [visual studio (code)](https://visualstud
 Voor deze fase van het project is een live environment niet van toepassing.
 
 ## Authors
-- (Zoey Bosman)[https://github.com/MsZoezo]
-- (Jaap Reerink)[https://github.com/JTReerink]
-- (Monique Wienholds)[https://github.com/mononiek]
-
+- [Zoey Bosman](https://github.com/MsZoezo)
+- [Jaap Reerink](https://github.com/JTReerink)
+- [Monique Wienholds](https://github.com/mononiek)
